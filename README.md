@@ -1,5 +1,3 @@
-# Hi, I'm John McMeen 👋🐸
-
 I'm a computer science researcher working at the intersection of 
 **machine learning, bioacoustics, and wildlife conservation**.
 
