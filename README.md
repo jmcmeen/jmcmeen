@@ -5,13 +5,12 @@ I'm a computer science researcher working at the intersection of
 
 ###### 🔬 Active Projects
 
-| Project                                                                        | What it does                                     |
-| ------------------------------------------------------------------------------ | ------------------------------------------------ |
-| [BIOAMLA](https://github.com/jmcmeen/bioamla)                                  | Python library for ML-based audio classification |
-| [BIOAMLA Hub](https://github.com/jmcmeen/bioamla-hub)                          | Notebooks & experiments                          |
-| [BIOAMLA Datasets](https://github.com/jmcmeen/bioamla-datasets)                | Curated bioacoustics datasets                    |
-| [Frogs of Steele Creek Park](https://github.com/jmcmeen/frogs-of-steele-creek) | Field research & recordings, Bristol TN          |
-| [Observa](https://github.com/jmcmeen/observa)                                  | Dockerized iNaturalist open data explorer        |
+| Project                                                                        | What it does                                      |
+| ------------------------------------------------------------------------------ | ------------------------------------------------- |
+| [sars](https://github.com/jmcmeen/sars)                                        | Species-area relationship curve fitting in Python |
+| [BIOAMLA Datasets](https://github.com/jmcmeen/bioamla-datasets)                | Curated bioacoustics datasets                     |
+| [Frogs of Steele Creek Park](https://github.com/jmcmeen/frogs-of-steele-creek) | Field research & recordings, Bristol TN           |
+| [Observa](https://github.com/jmcmeen/observa)                                  | Dockerized iNaturalist open data explorer         |
 
 ---
 
