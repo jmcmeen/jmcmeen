@@ -5,12 +5,14 @@ I'm a computer science researcher working at the intersection of
 
 ###### 🔬 Active Projects
 
-| Project                                                                        | What it does                                      |
-| ------------------------------------------------------------------------------ | ------------------------------------------------- |
-| [sars](https://github.com/jmcmeen/sars)                                        | Species-area relationship curve fitting in Python |
-| [BIOAMLA Datasets](https://github.com/jmcmeen/bioamla-datasets)                | Curated bioacoustics datasets                     |
-| [Frogs of Steele Creek Park](https://github.com/jmcmeen/frogs-of-steele-creek) | Field research & recordings, Bristol TN           |
-| [Observa](https://github.com/jmcmeen/observa)                                  | Dockerized iNaturalist open data explorer         |
+| Project                                                                   | Description                                                       |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [sars](https://github.com/jmcmeen/sars)                                   | Species-area relationship curve fitting in Python                 |
+| [etn-sar](https://github.com/jmcmeen/etn-sar)                             | Analyses from the Herpetofauna of Steele Creek Park Project       |
+| [appalachian-sar](https://github.com/jmcmeen/appalachian-sar)             | Analyses from the Amphibians in the Southern Appalachians Project |
+| [bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets)           | Curated bioacoustics datasets                                     |
+| [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Learning resources for ecology and bioacoustics                   |
+| [observa](https://github.com/jmcmeen/observa)                             | Dockerized iNaturalist open data explorer                         |
 
 ---
 
