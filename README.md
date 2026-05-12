@@ -1,9 +1,17 @@
-I'm a computer science researcher working at the intersection of 
+I'm a computer science professor and researcher working at the intersection of 
 **machine learning, bioacoustics, and wildlife conservation**. 
+---
+
+###### 🔗 Find Me
+
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8141-567X)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/John_Mcmeen)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/bioamla)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@johnmcmeen)
 
 ---
 
-###### 🔬 Active Projects
+###### 🔬 Favorite Projects
 
 | Project                                                                   | Description                                                       |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -13,6 +21,8 @@ I'm a computer science researcher working at the intersection of
 | [bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets)           | Curated bioacoustics datasets                                     |
 | [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Learning resources for ecology and bioacoustics                   |
 | [observa](https://github.com/jmcmeen/observa)                             | Dockerized iNaturalist open data explorer                         |
+| [terrana](https://github.com/jmcmeen/terrana)                             | Zero-config spatial API server written in Rust                    |
+| [gq-terminal](https://github.com/jmcmeen/gq-terminal)                     | A Python library and CLI for GQ GMC geiger counters               |
 
 ---
 
@@ -58,11 +68,3 @@ I'm a computer science researcher working at the intersection of
 - **Jessee, Stout & McMeen** (2022). Herpetofauna of Steele Creek Park (Sullivan County, TN). 
   *Southeastern Naturalist.*
 
----
-
-###### 🔗 Find Me
-
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8141-567X)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/John_Mcmeen)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/bioamla)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@johnmcmeen)
