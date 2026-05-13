@@ -67,4 +67,6 @@ I'm a computer science professor and researcher working at the intersection of
   American Herpetology.*
 - **Jessee, Stout & McMeen** (2022). Herpetofauna of Steele Creek Park (Sullivan County, TN). 
   *Southeastern Naturalist.*
+- **McMeen** (2014). [Ranking Methods for Global Optimization of Molecular Structures](https://dc.etsu.edu/etd/2447/). 
+  *Master's thesis, East Tennessee State University.*
 
