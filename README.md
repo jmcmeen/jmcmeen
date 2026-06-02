@@ -1,7 +1,3 @@
-I'm a computer science professor and researcher working at the intersection of 
-**machine learning, bioacoustics, and wildlife conservation**. 
----
-
 ###### 🔗 Find Me
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8141-567X)
