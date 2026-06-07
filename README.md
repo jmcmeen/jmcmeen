@@ -19,6 +19,7 @@
 | [observa](https://github.com/jmcmeen/observa)                             | Dockerized iNaturalist open data explorer                         |
 | [terrana](https://github.com/jmcmeen/terrana)                             | Zero-config spatial API server written in Rust                    |
 | [gq-terminal](https://github.com/jmcmeen/gq-terminal)                     | A Python library and CLI for GQ GMC geiger counters               |
+| [riffy](https://github.com/jmcmeen/riffy)                                 | A Python library for working with RIFF files.                     |
 
 ---
 
