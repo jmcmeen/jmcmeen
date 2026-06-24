@@ -40,8 +40,8 @@ Bioacoustics & machine-learning researcher · software engineer · educator
 
 ## 📄 Selected Publications
 
-- **Stout, Jessee & McMeen** (2025). Nested and Island Models for Determining the
-  Species-Area Relationship of Southern Appalachian Amphibians. *Journal of North
+- **Stout, Jessee & McMeen** (2025). [Nested and Island Models for Determining the
+  Species-Area Relationship of Southern Appalachian Amphibians.](https://doi.org/10.17161/jnah.v2025i1.21974) *Journal of North
   American Herpetology.*
 - **Jessee, Stout & McMeen** (2022). [Herpetofauna of Steele Creek Park (Sullivan County, TN)](https://doi.org/10.1656/058.021.0110).
   *Southeastern Naturalist* 21(1):63–73.
