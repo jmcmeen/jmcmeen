@@ -7,20 +7,34 @@
 
 ---
 
-###### 🔬 Favorite Projects
+###### 🔬 Software Projects
 
 | Project                                                                   | Description                                                       |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [bioamla](https://github.com/jmcmeen/bioamla)                             | ML driven bioacoutic analysis in Python                           |
 | [sars](https://github.com/jmcmeen/sars)                                   | Species-area relationship curve fitting in Python                 |
+| [observa](https://github.com/jmcmeen/observa)                             | Dockerized iNaturalist open data explorer                         |
+| [terrana](https://github.com/jmcmeen/terrana)                             | Zero-config spatial API server in Rust                            |
+| [gq-terminal](https://github.com/jmcmeen/gq-terminal)                     | GQ GMC Geiger counter library in Python                           |
+| [riffy](https://github.com/jmcmeen/riffy)                                 | RIFF file data parser in Python                                   |
+
+###### 🔬 Data Analyses & Datasets
+
+| Project                                                                   | Description                                                       |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [etn-sar](https://github.com/jmcmeen/etn-sar)                             | Analyses from the Herpetofauna of Steele Creek Park Project       |
 | [appalachian-sar](https://github.com/jmcmeen/appalachian-sar)             | Analyses from the Amphibians in the Southern Appalachians Project |
 | [bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets)           | Curated bioacoustics datasets                                     |
-| [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Learning resources for ecology and bioacoustics                   |
-| [observa](https://github.com/jmcmeen/observa)                             | Dockerized iNaturalist open data explorer                         |
-| [terrana](https://github.com/jmcmeen/terrana)                             | Zero-config spatial API server written in Rust                    |
-| [gq-terminal](https://github.com/jmcmeen/gq-terminal)                     | A Python library and CLI for GQ GMC geiger counters               |
-| [riffy](https://github.com/jmcmeen/riffy)                                 | A Python library for parsing RIFF file data.                      |
 
+###### 🔬 Learning/Teaching Resources
+
+| Project                                                                   | Description                                                       |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Learning resources for ecology and bioacoustics                   |
+| [intro-programming-concepts-csharp](https://github.com/jmcmeen/intro-programming-concepts-csharp) | Learning supplements for an introductory programming course in C# |
+| [oop-concepts-csharp](https://github.com/jmcmeen/oop-concepts-csharp) | Learning supplements for an object-oriented programming course in C# |
+| [discrete-structures](https://github.com/jmcmeen/discrete-structures) | Learning supplements for a course in discrete mathematics using Python|
+| [notes-on](https://github.com/jmcmeen/notes-on) | A collection of notes on various computer science and mathematics concepts |
 ---
 
 ###### 🛠️ Tech I Work (Play) With
