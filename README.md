@@ -12,25 +12,22 @@ Bioacoustics & machine-learning researcher · software engineer · educator
 
 ## 🧰 Favorite Projects
 
-🔬 **Software** —
-**[bioamla](https://github.com/jmcmeen/bioamla)** ML-driven bioacoustic analysis in Python |
-**[sars](https://github.com/jmcmeen/sars)** species-area relationship curve fitting |
-**[observa](https://github.com/jmcmeen/observa)** Dockerized iNaturalist open data explorer |
-**[terrana](https://github.com/jmcmeen/terrana)** zero-config spatial API server in Rust |
-**[gq-terminal](https://github.com/jmcmeen/gq-terminal)** GQ GMC Geiger counter library |
-**[riffy](https://github.com/jmcmeen/riffy)** RIFF file parser in Python
-
-📊 **Data** —
-**[etn-sar](https://github.com/jmcmeen/etn-sar)** Herpetofauna of Steele Creek Park analyses |
-**[appalachian-sar](https://github.com/jmcmeen/appalachian-sar)** Amphibians in the Southern Appalachians analyses |
-**[bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets)** curated bioacoustics datasets
-
-📚 **Teaching** —
-**[frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek)** ecology & bioacoustics |
-**[intro-programming-concepts-csharp](https://github.com/jmcmeen/intro-programming-concepts-csharp)** intro programming in C# |
-**[oop-concepts-csharp](https://github.com/jmcmeen/oop-concepts-csharp)** object-oriented programming in C# |
-**[discrete-structures](https://github.com/jmcmeen/discrete-structures)** discrete math with Python |
-**[notes-on](https://github.com/jmcmeen/notes-on)** CS & math notes
+| | Project | Description |
+| --- | --- | --- |
+| 🔬 Software | [bioamla](https://github.com/jmcmeen/bioamla) | ML-driven bioacoustic analysis in Python |
+|  | [sars](https://github.com/jmcmeen/sars) | Species-area relationship curve fitting |
+|  | [observa](https://github.com/jmcmeen/observa) | Dockerized iNaturalist open data explorer |
+|  | [terrana](https://github.com/jmcmeen/terrana) | Zero-config spatial API server in Rust |
+|  | [gq-terminal](https://github.com/jmcmeen/gq-terminal) | GQ GMC Geiger counter library |
+|  | [riffy](https://github.com/jmcmeen/riffy) | RIFF file parser in Python |
+| 📊 Data | [etn-sar](https://github.com/jmcmeen/etn-sar) | Herpetofauna of Steele Creek Park analyses |
+|  | [appalachian-sar](https://github.com/jmcmeen/appalachian-sar) | Amphibians in the Southern Appalachians analyses |
+|  | [bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets) | Curated bioacoustics datasets |
+| 📚 Teaching | [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Ecology & bioacoustics |
+|  | [intro-programming-concepts-csharp](https://github.com/jmcmeen/intro-programming-concepts-csharp) | Intro programming in C# |
+|  | [oop-concepts-csharp](https://github.com/jmcmeen/oop-concepts-csharp) | Object-oriented programming in C# |
+|  | [discrete-structures](https://github.com/jmcmeen/discrete-structures) | Discrete math with Python |
+|  | [notes-on](https://github.com/jmcmeen/notes-on) | CS & math notes |
 
 ## 📄 Selected Publications
 
