@@ -20,8 +20,8 @@ Bioacoustics & machine-learning researcher · software engineer · educator
 |  | [terrana](https://github.com/jmcmeen/terrana) | Zero-config spatial API server in Rust |
 |  | [gq-terminal](https://github.com/jmcmeen/gq-terminal) | GQ GMC Geiger counter library |
 |  | [riffy](https://github.com/jmcmeen/riffy) | RIFF file parser in Python |
-| 📊 Data | [etn-sar](https://github.com/jmcmeen/etn-sar) | Herpetofauna of Steele Creek Park analyses |
-|  | [appalachian-sar](https://github.com/jmcmeen/appalachian-sar) | Amphibians in the Southern Appalachians analyses |
+| 📊 Data | [etn-sar](https://github.com/jmcmeen/etn-sar) | Herpetofauna of Steele Creek Park analyses [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24454360.svg)](https://doi.org/10.5281/zenodo.24454360) |
+|  | [appalachian-sar](https://github.com/jmcmeen/appalachian-sar) | Amphibians in the Southern Appalachians analyses [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24454362.svg)](https://doi.org/10.5281/zenodo.24454362) |
 |  | [bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets) | Curated bioacoustics datasets |
 | 📚 Teaching | [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Ecology & bioacoustics |
 |  | [intro-programming-concepts-csharp](https://github.com/jmcmeen/intro-programming-concepts-csharp) | Intro programming in C# |
@@ -33,9 +33,9 @@ Bioacoustics & machine-learning researcher · software engineer · educator
 
 - **Stout, Jessee & McMeen** (2025). [Nested and Island Models for Determining the
   Species-Area Relationship of Southern Appalachian Amphibians.](https://doi.org/10.17161/jnah.v2025i1.21974) *Journal of North
-  American Herpetology.*
+  American Herpetology.* Data and code: [doi:10.5281/zenodo.24454362](https://doi.org/10.5281/zenodo.24454362).
 - **Jessee, Stout & McMeen** (2022). [Herpetofauna of Steele Creek Park (Sullivan County, TN)](https://doi.org/10.1656/058.021.0110).
-  *Southeastern Naturalist* 21(1):63–73.
+  *Southeastern Naturalist* 21(1):63–73. Data and code: [doi:10.5281/zenodo.24454360](https://doi.org/10.5281/zenodo.24454360).
 - **McMeen** (2014). [Ranking Methods for Global Optimization of Molecular Structures](https://dc.etsu.edu/etd/2447/).
   *Master's thesis, East Tennessee State University.*
 
