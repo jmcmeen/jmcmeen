@@ -2,7 +2,7 @@
 
 Bioacoustics & machine-learning researcher · software engineer · educator
 
-## 🔗 Connect
+## Connect
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-8141-567X)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/John_Mcmeen)
@@ -10,26 +10,26 @@ Bioacoustics & machine-learning researcher · software engineer · educator
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@johnmcmeen)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/jmcmeen)
 
-## 🧰 Favorite Projects
+## Favorite Projects
 
 | | Project | Description |
 | --- | --- | --- |
-| 🔬 Software | [bioamla](https://github.com/jmcmeen/bioamla) | ML-driven bioacoustic analysis in Python |
+| Software | [bioamla](https://github.com/jmcmeen/bioamla) | ML-driven bioacoustic analysis in Python |
 |  | [sars](https://github.com/jmcmeen/sars) | Species-area relationship curve fitting |
 |  | [observa](https://github.com/jmcmeen/observa) | Dockerized iNaturalist open data explorer |
 |  | [terrana](https://github.com/jmcmeen/terrana) | Zero-config spatial API server in Rust |
 |  | [gq-terminal](https://github.com/jmcmeen/gq-terminal) | GQ GMC Geiger counter library |
 |  | [riffy](https://github.com/jmcmeen/riffy) | RIFF file parser in Python |
-| 📊 Data | [etn-sar](https://github.com/jmcmeen/etn-sar) | Herpetofauna of Steele Creek Park analyses [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24454360.svg)](https://doi.org/10.5281/zenodo.24454360) |
+| Data | [etn-sar](https://github.com/jmcmeen/etn-sar) | Herpetofauna of Steele Creek Park analyses [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24454360.svg)](https://doi.org/10.5281/zenodo.24454360) |
 |  | [appalachian-sar](https://github.com/jmcmeen/appalachian-sar) | Amphibians in the Southern Appalachians analyses [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24454362.svg)](https://doi.org/10.5281/zenodo.24454362) |
 |  | [bioamla-datasets](https://github.com/jmcmeen/bioamla-datasets) | Curated bioacoustics datasets |
-| 📚 Teaching | [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Ecology & bioacoustics |
+| Teaching | [frogs-of-steele-creek](https://github.com/jmcmeen/frogs-of-steele-creek) | Ecology & bioacoustics |
 |  | [intro-programming-concepts-csharp](https://github.com/jmcmeen/intro-programming-concepts-csharp) | Intro programming in C# |
 |  | [oop-concepts-csharp](https://github.com/jmcmeen/oop-concepts-csharp) | Object-oriented programming in C# |
 |  | [discrete-structures](https://github.com/jmcmeen/discrete-structures) | Discrete math with Python |
 |  | [notes-on](https://github.com/jmcmeen/notes-on) | CS & math notes |
 
-## 📄 Selected Publications
+## Selected Publications
 
 - **Stout, Jessee & McMeen** (2025). [Nested and Island Models for Determining the
   Species-Area Relationship of Southern Appalachian Amphibians.](https://doi.org/10.17161/jnah.v2025i1.21974) *Journal of North
@@ -39,7 +39,7 @@ Bioacoustics & machine-learning researcher · software engineer · educator
 - **McMeen** (2014). [Ranking Methods for Global Optimization of Molecular Structures](https://dc.etsu.edu/etd/2447/).
   *Master's thesis, East Tennessee State University.*
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
